@@ -86,45 +86,6 @@
 ---
 
 
-
-### 🚀 Full-Stack Showcases:
-
-5. **Social Media Analytics**
-   - Multi-platform integration
-   - Data visualization charts
-   - Automated reporting
-   - Sentiment analysis
-
-6. **Learning Management System**
-   - Video streaming
-   - Progress tracking
-   - Quiz and assessment system
-   - Certificate generation
-
-7. **Healthcare Management System**
-   - Patient records management
-   - Appointment scheduling
-   - Telemedicine features
-   - Prescription management
-
----
-
-## 📈 GitHub Profile Optimization Tips
-
-1. **Pin Your Best Repositories** (6 repos maximum)
-2. **Add Detailed READMEs** to each project with:
-   - Live demos
-   - Screenshots/GIFs
-   - Installation instructions
-   - Technology stack
-   - Features list
-
-3. **Use GitHub Actions** for CI/CD
-4. **Contribute to Open Source**
-5. **Write Technical Blog Posts**
-
----
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyesbenaicha)
