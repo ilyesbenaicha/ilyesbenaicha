@@ -106,12 +106,6 @@
    - Add file sharing capabilities
    - Create mobile app companion
 
----
-
-## 🎯 Recommended Projects to Boost Your Profile
-
-### 🔥 Advanced MERN Projects:
-
 1. **Microservices E-commerce Platform**
    - Split your e-commerce into microservices
    - Use Docker containers
