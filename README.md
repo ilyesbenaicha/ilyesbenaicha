@@ -68,25 +68,6 @@
 - Database management tools
 - API integrations and middleware components
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyesbenaicha&show_icons=true&hide_border=true&theme=radical&hide=prs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesbenaicha&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilyesbenaicha&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 💡 Project Improvement Suggestions
-
-### Enhance Your Existing Projects:
 
 1. **Project Management Tool:**
    - Add Kanban board functionality
@@ -129,6 +110,23 @@
    - Image recognition features
    - Predictive analytics
    - NLP for content analysis
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyesbenaicha&show_icons=true&hide_border=true&theme=radical&hide=prs&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesbenaicha&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilyesbenaicha&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+
 
 ### 🚀 Full-Stack Showcases:
 
